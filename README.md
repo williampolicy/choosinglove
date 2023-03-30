@@ -1,2 +1,2 @@
-# choosinglove
-choosinglove
+# email-landing-page
+email-landing-page
